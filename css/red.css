@@ -1,0 +1,37 @@
+body {
+    background-image: url('../img/rojo.jpg');
+    background-attachment: fixed;
+}
+
+
+#logo {
+   
+    background-color: #CA3413;
+}
+
+#menu ul li:hover {
+    background-color: #CA3413;
+}
+
+.button-more {
+    
+    background-color: #CA3413;
+}
+
+form input[type="submit"]:hover{
+    background: #CA3413;
+    
+}
+
+footer {
+   
+    background: rgba(202,52,19, 0.7);
+    
+}
+.ui-accordion .ui-accordion-header {
+
+    font-weight: normal;
+    color: #fff;
+    background:#CA3413;
+    border:none;
+     }

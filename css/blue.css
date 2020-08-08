@@ -1,0 +1,36 @@
+body {
+    background-image: url('../img/cielo.jpg');
+    background-attachment: fixed;
+}
+
+
+#logo {
+   
+    background-color: #1F87C4;
+}
+
+#menu ul li:hover {
+    background-color:#1F87C4;
+}
+
+.button-more {
+    
+    background-color:#1F87C4;
+}
+
+form input[type="submit"]:hover{
+    background:#1F87C4;
+    
+}
+
+footer {
+    background-color: rgba(31, 135,196, 0.5);
+}
+
+.ui-accordion .ui-accordion-header {
+
+    font-weight: normal;
+    color: #fff;
+    background:#1F87C4;
+    border:none;
+     }
